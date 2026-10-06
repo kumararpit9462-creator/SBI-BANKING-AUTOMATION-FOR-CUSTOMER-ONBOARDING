@@ -59,12 +59,7 @@ These agents work together through automated workflows to manage the customer's 
 
 ## 🔄 Customer Journey
 
-<!-- PASTE YOUR GITHUB IMAGE URL HERE -->
-<p align="center">
-  <img src="<img width="1693" height="929" alt="customer-journey-timeline" src="https://github.com/user-attachments/assets/71966bf6-85bd-4b69-a484-6bcebf91ddad" />
-" alt="SBI Saathi Customer Journey Timeline" width="100%">
-</p>
-
+![SBI Saathi Customer Journey Timeline](./assets/customer-journey-timeline.png)
 ### Journey Stages
 
 | # | Stage | Description |
