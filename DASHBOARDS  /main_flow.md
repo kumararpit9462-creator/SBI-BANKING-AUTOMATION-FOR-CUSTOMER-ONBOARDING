@@ -4,33 +4,34 @@ SBI Saathi follows an end-to-end customer journey that begins with intelligent c
 
 ### Customer Journey Timeline
 
-The complete journey is designed around **10 key stages**:
-
-1. **Customer Identification** – Identifies eligible customers using banking data, behavior, and scheme eligibility.
-2. **Personalized Outreach** – Reaches customers through WhatsApp, SMS, or Voice in their preferred language.
-3. **Interest Capture** – Understands customer interest and obtains consent to proceed.
-4. **Document Request** – Provides a clear list of required documents and submission instructions.
-5. **Document Submission** – Enables secure document submission through digital channels.
-6. **Verification & Validation** – Uses AI and bank systems to verify submitted documents and identify issues.
-7. **KYC Completion** – Completes required KYC/eKYC processes with minimal customer effort.
-8. **Offer Activation** – Activates eligible banking products, schemes, and benefits.
-9. **Confirmation & Communication** – Sends confirmation, status updates, and relevant benefit details.
-10. **Support & Relationship** – Continues customer support and maintains long-term engagement.
-
-### Visual Workflow
-
 <p align="center">
-  <![Uploading Customer journey timeline with editable UI.png…]()
->
+  <img 
+    src="assets/customer-journey-timeline.png" 
+    alt="SBI Saathi Customer Journey Timeline"
+    width="100%"
+  />
 </p>
+
+### Journey at a Glance
+
+| Step | Stage | What Happens |
+|---|---|---|
+| **01** | Customer Identification | AI identifies eligible customers based on banking signals and eligibility. |
+| **02** | Personalized Outreach | Customer is contacted through WhatsApp, SMS or Voice. |
+| **03** | Interest Capture | Customer responds and provides consent to proceed. |
+| **04** | Document Request | AI provides the required documents and submission instructions. |
+| **05** | Document Submission | Documents are securely submitted through digital channels. |
+| **06** | Verification & Validation | AI and bank systems verify documents and identify issues. |
+| **07** | KYC Completion | KYC/eKYC is completed with minimal customer effort. |
+| **08** | Offer Activation | Eligible schemes, products and benefits are activated. |
+| **09** | Confirmation & Communication | Customer receives status, confirmation and benefit details. |
+| **10** | Support & Relationship | AI continues providing support and maintaining engagement. |
 
 ### Key Outcomes
 
-| Outcome | Description |
-|---|---|
-| 🔐 **Secure & Compliant** | Secure handling of customer interactions and documents |
-| 🏠 **Reduced Branch Visits** | Enables customers to complete eligible processes remotely |
-| 🎁 **Maximum Benefits** | Identifies and activates relevant customer benefits |
-| 🤖 **AI-Powered Experience** | Provides faster, personalized and guided banking assistance |
+- 🔐 **Secure & Compliant** — Secure handling of customer interactions and documents.
+- 🏠 **Reduced Branch Visits** — Eligible processes can be completed remotely.
+- 🎁 **Maximum Benefits** — Identifies additional benefits the customer may qualify for.
+- 🤖 **AI-Powered Experience** — Faster, personalized and guided banking assistance.
 
-> **SBI Saathi transforms banking from a branch-dependent process into an intelligent, guided, and customer-centric journey.**
+> **SBI Saathi transforms banking from a branch-dependent process into an intelligent, guided and customer-centric journey.**
