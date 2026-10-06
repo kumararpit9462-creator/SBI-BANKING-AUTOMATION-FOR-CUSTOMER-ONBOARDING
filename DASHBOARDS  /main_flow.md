@@ -20,7 +20,8 @@ The complete journey is designed around **10 key stages**:
 ### Visual Workflow
 
 <p align="center">
-  <" alt="SBI Saathi Customer Journey Timeline" width="100%">
+  <![Uploading Customer journey timeline with editable UI.png…]()
+>
 </p>
 
 ### Key Outcomes
